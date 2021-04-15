@@ -88,7 +88,7 @@ public class CreateJira {
                 auth = new String(Base64.encode(combine));
 
                 content = new String(Files.readAllBytes(Paths.get(
-                        "C:\\Users\\BP073925\\Jira-Creator\\Jira-Creator\\src\\main\\resources\\jira_template.yml")));
+                        "C:\\Users\\Jira-Creator\\Jira-Creator\\src\\main\\resources\\jira_template.yml")));
                 String yamlFileValues = convertYamlToJson(content);
                 String jsonValues = yamlFileValues.toString();
 
@@ -125,7 +125,7 @@ public class CreateJira {
                 //System.out.println(auth);
 
                 content = new String(Files.readAllBytes(Paths.get(
-                        "C:\\Users\\BP073925\\Jira-Creator\\Jira-Creator\\src\\main\\resources\\jira_template.yml")));
+                        "C:\\Users\\Jira-Creator\\Jira-Creator\\src\\main\\resources\\jira_template.yml")));
                 String yamlFileValues = convertYamlToJson(content);
                 String jsonValues = yamlFileValues.toString();
 
