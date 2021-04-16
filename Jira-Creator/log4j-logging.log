@@ -1,0 +1,157 @@
+2019-09-26 22:08:56 INFO  CreateJira:41 - This is info message
+2019-09-26 22:08:56 WARN  CreateJira:42 - This is warn message
+2019-09-26 22:08:56 FATAL CreateJira:43 - This is fatal message
+2019-09-26 22:08:56 ERROR CreateJira:44 - This is error message
+2019-09-27 11:38:34 INFO  CreateJira:42 - This is info message
+2019-09-27 11:38:34 WARN  CreateJira:43 - This is warn message
+2019-09-27 11:38:34 FATAL CreateJira:44 - This is fatal message
+2019-09-27 11:38:34 ERROR CreateJira:45 - This is error message
+2019-09-27 11:38:35 INFO  CreateJira:57 - accepting cmd input
+2019-09-27 11:38:35 INFO  CreateJira:75 - whne args are not given
+2019-09-27 11:38:35 INFO  CreateJira:91 - {
+  "fields" : {
+    "project" : {
+      "key" : "JIR"
+    },
+    "summary" : "REST API test",
+    "description" : "Creating of an issue using project keys and issue type names using the REST API",
+    "issuetype" : {
+      "name" : "Task"
+    }
+  }
+}
+2019-09-27 11:39:12 INFO  CreateJira:57 - accepting cmd input
+2019-09-27 11:39:12 INFO  CreateJira:75 - whne args are not given
+2019-09-27 11:39:13 INFO  CreateJira:91 - {
+  "fields" : {
+    "project" : {
+      "key" : "JIR"
+    },
+    "summary" : "REST API test",
+    "description" : "Creating of an issue using project keys and issue type names using the REST API",
+    "issuetype" : {
+      "name" : "Task"
+    }
+  }
+}
+2019-09-27 11:41:39 INFO  CreateJira:57 - accepting cmd input
+2019-09-27 11:41:39 INFO  CreateJira:75 - whne args are not given
+2019-09-27 11:41:40 INFO  CreateJira:91 - {
+  "fields" : {
+    "project" : {
+      "key" : "JIR"
+    },
+    "summary" : "REST API test",
+    "description" : "Creating of an issue using project keys and issue type names using the REST API",
+    "issuetype" : {
+      "name" : "Task"
+    }
+  }
+}
+2019-09-27 11:41:40 INFO  CreateJira:94 - {"id":"10050","key":"JIR-51","self":"http://localhost:8080/rest/api/2/issue/10050"}
+2019-09-27 11:41:40 INFO  CreateJira:97 - Key:JIR-51
+2019-09-27 12:03:41 INFO  CreateJira:54 -  jira server for creating an issue
+2019-09-27 12:03:41 INFO  CreateJira:57 - accepting cmd input
+2019-09-27 12:03:41 INFO  CreateJira:75 - whne args are not given
+2019-09-27 12:03:41 INFO  CreateJira:91 - {
+  "fields" : {
+    "project" : {
+      "key" : "JIR"
+    },
+    "summary" : "REST API test",
+    "description" : "Creating of an issue using project keys and issue type names using the REST API",
+    "issuetype" : {
+      "name" : "Task"
+    }
+  }
+}
+2019-09-27 12:03:43 INFO  CreateJira:94 - {"id":"10053","key":"JIR-54","self":"http://localhost:8080/rest/api/2/issue/10053"}
+2019-09-27 12:03:43 INFO  CreateJira:97 - Key:JIR-54
+2019-09-27 12:38:37 INFO  CreateJira:49 - Logging an INFO-level message
+2019-09-27 12:38:37 INFO  CreateJira:58 -  jira server for creating an issue
+2019-09-27 12:38:37 INFO  CreateJira:61 - accepting cmd input
+2019-09-27 12:38:37 INFO  CreateJira:79 - when args are not given
+2019-09-27 12:38:37 INFO  CreateJira:95 - {
+  "fields" : {
+    "project" : {
+      "key" : "JIR"
+    },
+    "summary" : "REST API test",
+    "description" : "Creating of an issue using project keys and issue type names using the REST API",
+    "issuetype" : {
+      "name" : "Task"
+    }
+  }
+}
+2019-09-27 12:38:41 INFO  CreateJira:98 - {"id":"10054","key":"JIR-55","self":"http://localhost:8080/rest/api/2/issue/10054"}
+2019-09-27 12:38:41 INFO  CreateJira:101 - Key:JIR-55
+2019-09-27 15:56:01 INFO  CreateJira:49 - Logging an INFO-level message
+2019-09-27 15:56:01 INFO  CreateJira:58 -  jira server for creating an issue
+2019-09-27 15:56:01 INFO  CreateJira:61 - accepting cmd input
+2019-09-27 15:56:01 INFO  CreateJira:79 - when args are not given
+2019-09-27 15:56:02 INFO  CreateJira:95 - {
+  "fields" : {
+    "project" : {
+      "key" : "JIR"
+    },
+    "summary" : "REST API test",
+    "description" : "Creating of an issue using project keys and issue type names using the REST API",
+    "issuetype" : {
+      "name" : "Task"
+    }
+  }
+}
+2019-09-27 15:56:05 INFO  CreateJira:160 - Error invoking REST method
+2019-09-27 17:21:33 INFO  CreateJira:49 - Logging an INFO-level message
+2019-09-27 17:21:33 INFO  CreateJira:58 -  jira server for creating an issue
+2019-09-27 17:21:33 INFO  CreateJira:61 - accepting cmd input
+2019-09-27 17:21:33 INFO  CreateJira:79 - when args are not given
+2019-09-27 17:21:34 INFO  CreateJira:95 - {
+  "fields" : {
+    "project" : {
+      "key" : "JIR"
+    },
+    "summary" : "REST API test",
+    "description" : "Creating of an issue using project keys and issue type names using the REST API",
+    "issuetype" : {
+      "name" : "Task"
+    }
+  }
+}
+2019-09-27 17:21:36 INFO  CreateJira:160 - Error invoking REST method
+2019-09-29 17:13:46 INFO  CreateJira:49 - Logging an INFO-level message
+2019-09-29 17:13:46 INFO  CreateJira:49 - Logging an INFO-level message
+2019-09-29 17:13:46 INFO  CreateJira:58 -  jira server for creating an issue
+2019-09-29 17:13:46 INFO  CreateJira:58 -  jira server for creating an issue
+2019-09-29 17:13:46 INFO  CreateJira:61 - accepting cmd input
+2019-09-29 17:13:46 INFO  CreateJira:79 - when args are not given
+2019-09-29 17:13:46 INFO  CreateJira:61 - accepting cmd input
+2019-09-29 17:13:46 INFO  CreateJira:79 - when args are not given
+2019-09-29 17:13:46 INFO  CreateJira:95 - {
+  "fields" : {
+    "project" : {
+      "key" : "JIR"
+    },
+    "summary" : "REST API test",
+    "description" : "Creating of an issue using project keys and issue type names using the REST API",
+    "issuetype" : {
+      "name" : "Task"
+    }
+  }
+}
+2019-09-29 17:13:46 INFO  CreateJira:95 - {
+  "fields" : {
+    "project" : {
+      "key" : "JIR"
+    },
+    "summary" : "REST API test",
+    "description" : "Creating of an issue using project keys and issue type names using the REST API",
+    "issuetype" : {
+      "name" : "Task"
+    }
+  }
+}
+2019-09-29 17:13:50 INFO  CreateJira:98 - {"id":"10100","key":"JIR-56","self":"http://localhost:8080/rest/api/2/issue/10100"}
+2019-09-29 17:13:50 INFO  CreateJira:98 - {"id":"10101","key":"JIR-57","self":"http://localhost:8080/rest/api/2/issue/10101"}
+2019-09-29 17:13:50 INFO  CreateJira:101 - Key:JIR-56
+2019-09-29 17:13:50 INFO  CreateJira:101 - Key:JIR-57
